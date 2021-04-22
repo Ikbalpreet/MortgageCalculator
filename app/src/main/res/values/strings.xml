@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+    <string name="p_amount">Mortgage Amount</string>
+    <string name="name">Mortgage Calculator</string>
+    <string name="type">Type</string>
+    <string name="rate">Interest Rate</string>
+    <string name="years">No of Years</string>
+    <string name="btn">Calculate</string>
+    <string name="btnCalAgain">Calculate Again</string>
+    <string-array name="type">
+        <item>Monthly</item>
+        <item>Bi-Weekly</item>
+        <item>Weekly</item>
+    </string-array>
+</resources>
